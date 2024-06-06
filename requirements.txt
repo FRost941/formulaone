@@ -6,3 +6,5 @@ pandas
 pyarrow
 fastparquet
 scikit-learn
+boto3
+pandas

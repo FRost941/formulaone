@@ -92,6 +92,8 @@ ENV/
 # Jupyternotebooks
 *.ipynb
 
+# Config file
+formulaone/config.json
 # My Data
 /Data
 
